@@ -1,0 +1,188 @@
+body {
+	background-color: #eaeaea;
+	padding: 20px;
+	font-family: 'Poiret One', cursive;
+
+}
+/* Nav bar */
+nav ul {
+	float: right;
+	list-style-type: none;
+}
+
+nav li {
+	display: inline-block;
+	margin: 10px 10px 0 0;
+}
+
+nav a {
+	color: black;
+	text-decoration: none;
+	font-size: 20px;
+	padding: 20px;
+}
+/* First Section after Nav Bar */
+h2 {
+	padding-top: 20px;
+	text-align: center;
+}
+/*"Im your name color"*/
+span {
+	color: #ff80aa;
+}
+h3 {
+	text-align: center;
+}
+
+/*Main picture*/
+.sunset {
+	text-align: center;
+	width: 
+
+}
+
+/*About me and my work section*/
+.aboutmeh1 {
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Dancing Script', cursive;
+	color: #ff80aa;
+}
+.aboutme {
+	float:left;
+	width: 47%;
+	font-size: 20px;
+}
+
+.myworkh1 {
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Dancing Script', cursive;
+	color: #ff80aa;
+}
+.mywork {
+	float:right;
+	width: 47%;
+	font-size: 20px;
+	
+}
+/*Picture list section*/
+div {
+	display: inline-block;
+	/*border-style: solid;*/ /*just to see border*/
+   /* border-color: #0000ff;*/ /*just to see border*/
+    width:15%;
+    margin:20px;
+    margin-left: 40px;
+}
+
+img {
+	border-radius: 5px;
+}
+ 
+
+ /*thanks for looking section*/
+
+ .thanks {
+ 	text-align: center;
+ 	margin-top: 20px;
+ 	font-family: 'Dancing Script', cursive;
+ 	font-size: 20px;
+ 	color: #ff80aa;
+ 	padding-bottom: 2%;
+
+ }
+
+ footer {
+    background-color: #2D2D2D;
+    padding-bottom: 30px;
+    padding-top: 1px;
+
+ }
+
+input {
+	width: 35%;
+	border-radius: 1px;
+	margin-left: 20px;
+}
+
+#contact {
+	height:80px;
+
+}
+
+#contactTitle {
+	color: white;
+	    margin-left: 20px;
+}
+
+button {
+	margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
